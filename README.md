@@ -51,6 +51,7 @@ python3 tools/build-static.py dist     # → dist/ (40 pages + assets)
 | Cart | Slide-in bag drawer, quick-add size picker, cart page, quantity / remove |
 | Checkout | Address form with validation → order confirmation (**demo, no payment**) |
 | Wishlist, search | Wishlist page + live search overlay |
+| Logo preloader | Wordmark inks in, the dragonfly lands on the logo, then a curtain lifts (~1 s, capped at 1.5 s). Browsing pages only: list in `partials/header.php` (`$show_preloader`), timing in `partials/preloader.php`. Skipped on product, cart, checkout, account, wishlist, track order and on shop filter changes. |
 | Help chat | Floating chat (bottom-right): instant answers for orders, sizing, returns, custom orders & shipping (from Faelynn's FAQ/policies); typed messages continue on WhatsApp (+91 9625309827). Can later be swapped for Tawk.to / Crisp / WhatsApp Business API. |
 | Content pages | About, Contact, FAQs, Custom Order (size chart), Policies (shipping, returns, wash care, privacy, terms), Journal, Track Order, Account, 404 |
 

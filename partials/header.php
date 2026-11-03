@@ -3,6 +3,9 @@
 $page_title = $page_title ?? 'Faelynn | Premium Handcrafted Clothing for Men & Women';
 $page_desc  = $page_desc ?? 'Faelynn — love for nature. Premium handcrafted, breathable cotton dresses, co-ord sets, nightwear and relaxed shirts, made by Indian artisans. Free delivery & easy returns.';
 $current    = fl_current_page();
+// Logo preloader: browsing pages only. Shopping steps (product, cart, checkout,
+// account, wishlist, track order) must open straight away.
+$show_preloader = in_array($current, ['index', 'shop', 'about', 'custom-order', 'journal', 'contact', 'faq', 'policy'], true);
 $nav = [
     ['label' => 'Women', 'url' => fl_category_url('women'), 'mega' => 'women'],
     ['label' => 'Men', 'url' => fl_category_url('men'), 'mega' => 'men'],
@@ -28,13 +31,24 @@ $mega = [
   <meta property="og:image" content="assets/images/brand/og-image.jpg">
   <link rel="icon" type="image/png" href="assets/images/brand/favicon.png">
   <link rel="apple-touch-icon" href="assets/images/brand/apple-touch-icon.png">
+  <?php if ($show_preloader): ?>
+    <?php fl_partial('preloader-head'); ?>
+    <link rel="preload" as="image" href="assets/images/brand/preloader-logo.webp" fetchpriority="high">
+  <?php endif; ?>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Jost:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <?php $fl_fonts = 'https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Jost:wght@300;400;500;600&display=swap'; ?>
+  <?php if ($show_preloader): /* the preloader covers the font swap, so fonts needn't block first paint */ ?>
+    <link rel="preload" as="style" href="<?= e($fl_fonts) ?>" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="<?= e($fl_fonts) ?>"></noscript>
+  <?php else: ?>
+    <link rel="stylesheet" href="<?= e($fl_fonts) ?>">
+  <?php endif; ?>
   <link rel="stylesheet" href="<?= fl_asset('assets/vendor/swiper/swiper-bundle.min.css') ?>">
   <link rel="stylesheet" href="<?= fl_asset('assets/css/app.css') ?>">
 </head>
 <body class="<?= e($body_class ?? '') ?>" data-page="<?= e($current) ?>"<?= FL_STATIC ? ' data-static="1"' : '' ?>>
+<?php if ($show_preloader) fl_partial('preloader'); ?>
 <a href="#main" class="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[100] focus:rounded-full focus:bg-forest focus:px-4 focus:py-2 focus:text-ivory">Skip to content</a>
 
 <!-- Announcement bar -->
