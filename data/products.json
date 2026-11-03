@@ -1,0 +1,1237 @@
+[
+  {
+    "id": 8954,
+    "slug": "ridge-coat-style-shirt",
+    "name": "Ridge Coat style Shirt",
+    "short_name": "Ridge Coat style Shirt",
+    "subtitle": "",
+    "gender": "men",
+    "primary_category": "shirt-men",
+    "categories": [
+      "men",
+      "shirt-men",
+      "trouser-men"
+    ],
+    "tags": [
+      "beige",
+      "brown",
+      "coat",
+      "cotton",
+      "shirt"
+    ],
+    "price": 2600,
+    "regular_price": 2600,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "in_stock": true,
+    "images": [
+      {
+        "src": "assets/images/products/ridge1.jpg",
+        "alt": "Ridge Coat style Shirt"
+      },
+      {
+        "src": "assets/images/products/ridge.jpg",
+        "alt": "Coat Shirt"
+      },
+      {
+        "src": "assets/images/products/ridge2.jpg",
+        "alt": "Ridge Coat style Shirt"
+      },
+      {
+        "src": "assets/images/products/ridge3.jpg",
+        "alt": "Ridge Coat style Shirt"
+      },
+      {
+        "src": "assets/images/products/beige-trousers.jpg",
+        "alt": "Ridge Coat style Shirt"
+      },
+      {
+        "src": "assets/images/products/ridge4.jpg",
+        "alt": "Ridge Coat style Shirt"
+      }
+    ],
+    "tagline": "",
+    "intro": [
+      "Coat inspired Shirt with Smart fit with Easy fit Beige Trousers"
+    ],
+    "highlights": [],
+    "perfect_for": [],
+    "quick_specs": [],
+    "specs": [
+      [
+        "Material",
+        "Cotton Crimp"
+      ],
+      [
+        "Colour",
+        "Brown"
+      ],
+      [
+        "Neckline",
+        "Notched Collar"
+      ],
+      [
+        "Sleeves",
+        "Full Sleeves"
+      ],
+      [
+        "Trim",
+        "Coconut Shell Button"
+      ]
+    ],
+    "description": [],
+    "source_url": "https://faelynn.co.in/shop/ridge-coat-style-shirt/"
+  },
+  {
+    "id": 8934,
+    "slug": "walden-shirt",
+    "name": "Walden Shirt with Beige Trousers",
+    "short_name": "Walden Shirt with Beige Trousers",
+    "subtitle": "",
+    "gender": "men",
+    "primary_category": "shirt-men",
+    "categories": [
+      "men",
+      "shirt-men",
+      "trouser-men"
+    ],
+    "tags": [],
+    "price": 2300,
+    "regular_price": 2300,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "in_stock": true,
+    "images": [
+      {
+        "src": "assets/images/products/walden.jpg",
+        "alt": "Cotton Full Shirt"
+      },
+      {
+        "src": "assets/images/products/walden1.jpg",
+        "alt": "Walden Shirt with Beige Trousers"
+      },
+      {
+        "src": "assets/images/products/walden2.jpg",
+        "alt": "Walden Shirt with Beige Trousers"
+      },
+      {
+        "src": "assets/images/products/walden3.jpg",
+        "alt": "Walden Shirt with Beige Trousers"
+      },
+      {
+        "src": "assets/images/products/beige-trousers.jpg",
+        "alt": "Walden Shirt with Beige Trousers"
+      },
+      {
+        "src": "assets/images/products/walden4.jpg",
+        "alt": "Walden Shirt with Beige Trousers"
+      }
+    ],
+    "tagline": "",
+    "intro": [
+      "Super relaxed fit Full sleeves shirt with easy going elasticated Trousers."
+    ],
+    "highlights": [],
+    "perfect_for": [],
+    "quick_specs": [],
+    "specs": [
+      [
+        "Material",
+        "100% Soft Cotton Dobby/Cotton Crimp"
+      ],
+      [
+        "Colour",
+        "Mauve/Beige"
+      ],
+      [
+        "Neckline",
+        "Button Down Collar"
+      ],
+      [
+        "Sleeves",
+        "Full Sleeves"
+      ],
+      [
+        "Trims",
+        "Coconut Shell Button/Drawstrings"
+      ],
+      [
+        "Style details",
+        "Box Pleat below Back Yoke/Full Elasticated waist band with drawstrings"
+      ]
+    ],
+    "description": [],
+    "source_url": "https://faelynn.co.in/shop/walden-shirt/"
+  },
+  {
+    "id": 8921,
+    "slug": "ethan",
+    "name": "Ethan Relaxed Shirt with White Shorts",
+    "short_name": "Ethan Relaxed Shirt with White Shorts",
+    "subtitle": "",
+    "gender": "men",
+    "primary_category": "shirt-men",
+    "categories": [
+      "men",
+      "shirt-men",
+      "shorts-men"
+    ],
+    "tags": [
+      "shirt"
+    ],
+    "price": 1800,
+    "regular_price": 1800,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "in_stock": true,
+    "images": [
+      {
+        "src": "assets/images/products/ethan.jpg",
+        "alt": "Super relaxed shirt and Shorts"
+      },
+      {
+        "src": "assets/images/products/ethan1.jpg",
+        "alt": "Ethan Relaxed Shirt with White Shorts"
+      },
+      {
+        "src": "assets/images/products/ethan2.jpg",
+        "alt": "Ethan Relaxed Shirt with White Shorts"
+      },
+      {
+        "src": "assets/images/products/ethan3.jpg",
+        "alt": "Ethan Relaxed Shirt with White Shorts"
+      },
+      {
+        "src": "assets/images/products/ethan4.jpg",
+        "alt": "Ethan Relaxed Shirt with White Shorts"
+      },
+      {
+        "src": "assets/images/products/ethan5.jpg",
+        "alt": "Ethan Relaxed Shirt with White Shorts"
+      }
+    ],
+    "tagline": "",
+    "intro": [
+      "Super Relaxed Shirt made in light weight fine cotton, suitable for summer weather with soft texture."
+    ],
+    "highlights": [],
+    "perfect_for": [],
+    "quick_specs": [],
+    "specs": [
+      [
+        "Material",
+        "Unbleached Cotton/ Cotton Twill"
+      ],
+      [
+        "Colour",
+        "Kohra/ Pure White"
+      ],
+      [
+        "Neckline",
+        "Notched Collar"
+      ],
+      [
+        "Sleeves",
+        "Short Sleeves"
+      ],
+      [
+        "Trims",
+        "Coconut Shell Buttons/ Drawstring"
+      ],
+      [
+        "Style details",
+        "Collar Piping/ Full Elasticated waist band"
+      ]
+    ],
+    "description": [],
+    "source_url": "https://faelynn.co.in/shop/ethan/"
+  },
+  {
+    "id": 8905,
+    "slug": "rio",
+    "name": "Rio Cotton Outfit – Everyday Comfort Wear",
+    "short_name": "Rio Cotton Outfit",
+    "subtitle": "Everyday Comfort Wear",
+    "gender": "men",
+    "primary_category": "shirt-men",
+    "categories": [
+      "men",
+      "shirt-men",
+      "trouser-men"
+    ],
+    "tags": [],
+    "price": 2200,
+    "regular_price": 2200,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "in_stock": true,
+    "images": [
+      {
+        "src": "assets/images/products/rio.jpg",
+        "alt": "Short sleeves shirt"
+      },
+      {
+        "src": "assets/images/products/rio1.jpg",
+        "alt": "Rio Cotton Outfit – Everyday Comfort Wear"
+      },
+      {
+        "src": "assets/images/products/rio2.jpg",
+        "alt": "Rio Cotton Outfit – Everyday Comfort Wear"
+      },
+      {
+        "src": "assets/images/products/rio3.jpg",
+        "alt": "Rio Cotton Outfit – Everyday Comfort Wear"
+      },
+      {
+        "src": "assets/images/products/white-trousers.jpg",
+        "alt": "Rio Cotton Outfit – Everyday Comfort Wear"
+      },
+      {
+        "src": "assets/images/products/rio4.jpg",
+        "alt": "Rio Cotton Outfit – Everyday Comfort Wear"
+      }
+    ],
+    "tagline": "Light, breathable outfit designed for simple, comfortable living",
+    "intro": [
+      "Super relaxed fit Half shirt, ideal for summer as made in softest cotton."
+    ],
+    "highlights": [
+      "Soft cotton feel",
+      "Lightweight and breathable",
+      "Comfortable everyday wear",
+      "Minimal, clean design"
+    ],
+    "perfect_for": [
+      "Daily wear",
+      "Travel",
+      "Relaxed outings"
+    ],
+    "quick_specs": [
+      [
+        "Fabric",
+        "Cotton"
+      ],
+      [
+        "Fit",
+        "Comfortable"
+      ]
+    ],
+    "specs": [
+      [
+        "Material",
+        "Slub Cotton/Cotton Twill"
+      ],
+      [
+        "Colour",
+        "Beige/Pure White"
+      ],
+      [
+        "Neckline",
+        "Notched Collar"
+      ],
+      [
+        "Sleeves",
+        "Short Sleeves"
+      ],
+      [
+        "Trims",
+        "Coconut Shell Buttons/ Drawstring"
+      ],
+      [
+        "Style details",
+        "Box pleat on Back, Patch Pocket on wearer’s LHS/ Full Elasticated waist band"
+      ]
+    ],
+    "description": [],
+    "source_url": "https://faelynn.co.in/shop/rio/"
+  },
+  {
+    "id": 8659,
+    "slug": "heath-a-line-dress",
+    "name": "Heath A-line Dress – Effortless Cotton Comfort",
+    "short_name": "Heath A-line Dress",
+    "subtitle": "Effortless Cotton Comfort",
+    "gender": "women",
+    "primary_category": "dresses-women",
+    "categories": [
+      "dresses",
+      "dresses-women",
+      "women"
+    ],
+    "tags": [
+      "dress",
+      "floral",
+      "hand work",
+      "multicolour",
+      "print",
+      "sleeveless"
+    ],
+    "price": 2499,
+    "regular_price": 2499,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "in_stock": true,
+    "images": [
+      {
+        "src": "assets/images/products/kendyl1.jpg",
+        "alt": "A-line dress"
+      },
+      {
+        "src": "assets/images/products/kendyl2.jpg",
+        "alt": "Printed Dress"
+      },
+      {
+        "src": "assets/images/products/kendyl3.jpg",
+        "alt": "Sleeveless dress"
+      },
+      {
+        "src": "assets/images/products/kendyl4.jpg",
+        "alt": "Printed Dress"
+      },
+      {
+        "src": "assets/images/products/kendyl5.jpg",
+        "alt": "Embroidered Dress"
+      }
+    ],
+    "tagline": "Simple, breathable, and designed for everyday ease.",
+    "intro": [
+      "The calf-length dress is a wearable poem, inspired by the quiet strength and beauty of nature’s queen. Crafted from a beautifully pixelated floral and geometric prints. The sleeveless A-line silhouette and V-neckline offers a flattering fit, allowing you to move with grace."
+    ],
+    "highlights": [
+      "Lightweight cotton fabric",
+      "Comfortable A-line silhouette",
+      "Easy, breathable wear",
+      "Minimal and stylish design"
+    ],
+    "perfect_for": [
+      "Daily wear",
+      "Work-from-home outfits",
+      "Casual styling"
+    ],
+    "quick_specs": [
+      [
+        "Fabric",
+        "Cotton"
+      ],
+      [
+        "Fit",
+        "A-line"
+      ],
+      [
+        "Style",
+        "Minimal"
+      ]
+    ],
+    "specs": [],
+    "description": [
+      "Flowy calf length floral dress made in soft cotton checkered fabric with pixelated bright color print. Crafted from a beautifully pixelated floral and geometric prints. The sleeveless A-line silhouette and V-neckline offers a flattering fit, allowing you to move with grace."
+    ],
+    "source_url": "https://faelynn.co.in/shop/heath-a-line-dress/"
+  },
+  {
+    "id": 8528,
+    "slug": "fae-dress",
+    "name": "Fae Dress",
+    "short_name": "Fae Dress",
+    "subtitle": "",
+    "gender": "women",
+    "primary_category": "dresses-women",
+    "categories": [
+      "dresses-women",
+      "women"
+    ],
+    "tags": [
+      "dress",
+      "hand embroidered",
+      "offwhite",
+      "pastel",
+      "white",
+      "women"
+    ],
+    "price": 4299,
+    "regular_price": 4299,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "in_stock": true,
+    "images": [
+      {
+        "src": "assets/images/products/fae1.jpg",
+        "alt": "White Dress"
+      },
+      {
+        "src": "assets/images/products/fae2.jpg",
+        "alt": "Fae Dress"
+      },
+      {
+        "src": "assets/images/products/fae3.jpg",
+        "alt": "Fae Dress"
+      },
+      {
+        "src": "assets/images/products/fae4.jpg",
+        "alt": "Fae Dress"
+      },
+      {
+        "src": "assets/images/products/fae5.jpg",
+        "alt": "Fae Dress"
+      },
+      {
+        "src": "assets/images/products/fae6.jpg",
+        "alt": "Fae Dress"
+      }
+    ],
+    "tagline": "A beautifully embroidered cotton dress designed for timeless elegance and comfort.",
+    "intro": [
+      "Beautifully hand embroidered calf length dress made in soft white colour with tiny pastel motifs. Its design will make you feel pretty as well as very comfortable in the softest lightweight cotton dobby."
+    ],
+    "highlights": [
+      "Handcrafted embroidery for a premium feel",
+      "Ultra-soft cotton fabric",
+      "Breathable and lightweight",
+      "Elegant yet comfortable design"
+    ],
+    "perfect_for": [
+      "Casual outings",
+      "Relaxed gatherings",
+      "Everyday elegance"
+    ],
+    "quick_specs": [
+      [
+        "Fabric",
+        "Cotton dobby"
+      ],
+      [
+        "Fit",
+        "Straight fit"
+      ],
+      [
+        "Sleeve",
+        "3/4th sleeve"
+      ],
+      [
+        "Style",
+        "Hand embroidery"
+      ]
+    ],
+    "specs": [],
+    "description": [
+      "The Fae name itself means fairy, who is the main character of our Fae land where the world is calm and full of nature’s creations.",
+      "Fae is beautifully hand embroidered calf length dress made in soft white colour with tiny pastel motifs. Its design will make you feel pretty as well as very comfortable in the softest lightweight cotton dobby."
+    ],
+    "source_url": "https://faelynn.co.in/shop/fae-dress/"
+  },
+  {
+    "id": 8510,
+    "slug": "belinda-co-ord-set",
+    "name": "Belinda Co-ord Set – Premium Cotton Loungewear",
+    "short_name": "Belinda Co-ord Set",
+    "subtitle": "Premium Cotton Loungewear",
+    "gender": "women",
+    "primary_category": "co-ord-set-women",
+    "categories": [
+      "co-ord-set-women",
+      "women"
+    ],
+    "tags": [
+      "blue",
+      "co-ords",
+      "cotton",
+      "floral",
+      "print",
+      "stripes"
+    ],
+    "price": 2399,
+    "regular_price": 2399,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "in_stock": true,
+    "images": [
+      {
+        "src": "assets/images/products/belinda2.jpg",
+        "alt": "Belinda Co-ord Set – Premium Cotton Loungewear"
+      },
+      {
+        "src": "assets/images/products/belinda1.jpg",
+        "alt": "Blue Co-ords"
+      },
+      {
+        "src": "assets/images/products/belinda3.jpg",
+        "alt": "Belinda Co-ord Set – Premium Cotton Loungewear"
+      },
+      {
+        "src": "assets/images/products/belinda4.jpg",
+        "alt": "Belinda Co-ord Set – Premium Cotton Loungewear"
+      },
+      {
+        "src": "assets/images/products/belinda5.jpg",
+        "alt": "Belinda Co-ord Set – Premium Cotton Loungewear"
+      },
+      {
+        "src": "assets/images/products/belinda6.jpg",
+        "alt": "Belinda Co-ord Set – Premium Cotton Loungewear"
+      }
+    ],
+    "tagline": "Relaxed, breathable cotton set designed for all-day comfort.",
+    "intro": [
+      "Hi there, we are glad since you found Belinda<3",
+      "We simply mean this is no coincident that you reached this particular product page, it is actually made just for you as it fits perfectly with your bold and fun personality. It is made in cotton fabric which not just give you comfort to live in but it’s contrasting vertical stripes on collar, cuffs and Placket."
+    ],
+    "highlights": [
+      "Matching set for effortless styling",
+      "Soft breathable cotton",
+      "Relaxed fit for everyday wear",
+      "Comfortable yet stylish"
+    ],
+    "perfect_for": [
+      "Lounging",
+      "Travel",
+      "Casual outings"
+    ],
+    "quick_specs": [
+      [
+        "Fabric",
+        "Cotton"
+      ],
+      [
+        "Fit",
+        "Relaxed"
+      ],
+      [
+        "Type",
+        "Co-ord set"
+      ]
+    ],
+    "specs": [],
+    "description": [
+      "Floral Printed Co-ord set with smaller length on front and longer back length with ankle length trousers. Designed in a solhouette that holds a power of authority of wearer with subtle colors and smart structure."
+    ],
+    "source_url": "https://faelynn.co.in/shop/belinda-co-ord-set/"
+  },
+  {
+    "id": 8517,
+    "slug": "haizea-oversized-dress",
+    "name": "Haizea Oversized Dress – Relaxed Cotton Comfort",
+    "short_name": "Haizea Oversized Dress",
+    "subtitle": "Relaxed Cotton Comfort",
+    "gender": "women",
+    "primary_category": "dresses-women",
+    "categories": [
+      "dresses-women",
+      "women"
+    ],
+    "tags": [
+      "beige",
+      "cotton",
+      "dress",
+      "embroidery",
+      "hand work",
+      "new arrivals"
+    ],
+    "price": 2399,
+    "regular_price": 2399,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "in_stock": true,
+    "images": [
+      {
+        "src": "assets/images/products/haizead1.jpg",
+        "alt": "Beige Dress"
+      },
+      {
+        "src": "assets/images/products/haizead2.jpg",
+        "alt": "Haizea Oversized Dress – Relaxed Cotton Comfort"
+      },
+      {
+        "src": "assets/images/products/haizead3.jpg",
+        "alt": "Haizea Oversized Dress – Relaxed Cotton Comfort"
+      },
+      {
+        "src": "assets/images/products/haizead4.jpg",
+        "alt": "Haizea Oversized Dress – Relaxed Cotton Comfort"
+      },
+      {
+        "src": "assets/images/products/haizead5.jpg",
+        "alt": "Haizea Oversized Dress – Relaxed Cotton Comfort"
+      }
+    ],
+    "tagline": "Designed for ultimate ease with a relaxed oversized fit",
+    "intro": [
+      "Brezzy, Comfy, lightweight, softest cotton feels like loafs of cotton balls snugging your skin. It’s soft and breathable cotton Dobby fabric will give you the comfiest experience that couldn’t stop wearing it again and again. Be it travel, casual or lounging you will wanna live live in it."
+    ],
+    "highlights": [
+      "Oversized silhouette for freedom of movement",
+      "Breathable cotton fabric",
+      "Soft and skin-friendly"
+    ],
+    "perfect_for": [
+      "Lounging",
+      "Casual days",
+      "Comfort wear"
+    ],
+    "quick_specs": [
+      [
+        "Fabric",
+        "Cotton"
+      ],
+      [
+        "Fit",
+        "Oversized"
+      ],
+      [
+        "Style",
+        "Relaxed"
+      ]
+    ],
+    "specs": [],
+    "description": [
+      "Flowy oversized dress comes with inseam pockets.",
+      "Intricately hand embroidered with cotton thread of a “Queen Bee” flying with its motion depicted with dashed lines.",
+      "Made in soft cotton dobby fabric in beige color with white textured stripes."
+    ],
+    "source_url": "https://faelynn.co.in/shop/haizea-oversized-dress/"
+  },
+  {
+    "id": 8523,
+    "slug": "haizea-oversized-co-ords",
+    "name": "Haizea Co-ord Set – Effortless Cotton Style",
+    "short_name": "Haizea Co-ord Set",
+    "subtitle": "Effortless Cotton Style",
+    "gender": "women",
+    "primary_category": "co-ord-set-women",
+    "categories": [
+      "co-ord-set-women",
+      "women"
+    ],
+    "tags": [
+      "beige",
+      "cotton",
+      "dress",
+      "embroidery",
+      "hand work",
+      "new arrivals"
+    ],
+    "price": 3099,
+    "regular_price": 3099,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "in_stock": true,
+    "images": [
+      {
+        "src": "assets/images/products/haizea1.jpg",
+        "alt": "Haizea Co-ords"
+      },
+      {
+        "src": "assets/images/products/haizea2.jpg",
+        "alt": "Haizea Co-ord Set – Effortless Cotton Style"
+      },
+      {
+        "src": "assets/images/products/haizea3.jpg",
+        "alt": "Haizea Co-ord Set – Effortless Cotton Style"
+      },
+      {
+        "src": "assets/images/products/haizea4.jpg",
+        "alt": "Haizea Co-ord Set – Effortless Cotton Style"
+      },
+      {
+        "src": "assets/images/products/haizead5.jpg",
+        "alt": "Haizea Co-ord Set – Effortless Cotton Style"
+      }
+    ],
+    "tagline": "A stylish yet comfortable set designed for everyday ease.",
+    "intro": [
+      "Brezzy, Comfy, lightweight, softest cotton feels like loafs of cotton balls snugging your skin paired with a relaxed Trousers. It’s soft and breathable cotton Dobby fabric will give you the comfiest experience that couldn’t stop wearing it again and again. Be it travel, casual or lounging you will wanna live live in it."
+    ],
+    "highlights": [
+      "Breathable cotton",
+      "Coordinated style",
+      "Relaxed, easy fit"
+    ],
+    "perfect_for": [
+      "Travel",
+      "Casual outings",
+      "Home wear"
+    ],
+    "quick_specs": [
+      [
+        "Fabric",
+        "Cotton"
+      ],
+      [
+        "Fit",
+        "Relaxed"
+      ]
+    ],
+    "specs": [],
+    "description": [
+      "Flowy long top paired with comfy pants that comes with inseam pockets.",
+      "Intricately hand embroidered with cotton thread of a “Queen Bee” flying with its motion depicted with dashed lines.",
+      "Made in soft cotton dobby fabric in beige color with white textured stripes."
+    ],
+    "source_url": "https://faelynn.co.in/shop/haizea-oversized-co-ords/"
+  },
+  {
+    "id": 5842,
+    "slug": "carolyn-floral-dress",
+    "name": "Carolyn Floral Dress – Cotton Loungewear & Night Dress",
+    "short_name": "Carolyn Floral Dress",
+    "subtitle": "Cotton Loungewear & Night Dress",
+    "gender": "women",
+    "primary_category": "dresses-women",
+    "categories": [
+      "dresses-women",
+      "women"
+    ],
+    "tags": [],
+    "price": 2885,
+    "regular_price": 2885,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "in_stock": true,
+    "images": [
+      {
+        "src": "assets/images/products/img-9786-1.jpg",
+        "alt": "Carolyn Floral Dress – Cotton Loungewear & Night Dress"
+      },
+      {
+        "src": "assets/images/products/img-9787.jpg",
+        "alt": "Carolyn Floral Dress – Cotton Loungewear & Night Dress"
+      },
+      {
+        "src": "assets/images/products/img-9794.jpg",
+        "alt": "Carolyn Floral Dress – Cotton Loungewear & Night Dress"
+      }
+    ],
+    "tagline": "A flowy cotton piece designed for comfort, elegance, and ease.",
+    "intro": [
+      "The Carolyn Floral Dress is lovely flowy silhouette and lightweight and breathable soft cotton. The Gather under yoke makes the garment roomy and comfortable. Carolyn Floral Dress features a soft Elasticated neckline and puffy sleeve."
+    ],
+    "highlights": [
+      "Breathable cotton fabric for daily comfort",
+      "Flowy silhouette for relaxed wear",
+      "Soft elastic neckline for flexibility",
+      "Perfect blend of style and comfort"
+    ],
+    "perfect_for": [
+      "Lounging at home",
+      "Casual wear",
+      "Nightwear"
+    ],
+    "quick_specs": [
+      [
+        "Fabric",
+        "Cotton"
+      ],
+      [
+        "Fit",
+        "Relaxed, flowy"
+      ],
+      [
+        "Sleeve",
+        "3/4th sleeves"
+      ],
+      [
+        "Style",
+        "Floral printed"
+      ]
+    ],
+    "specs": [
+      [
+        "Material",
+        "Soft cotton print"
+      ],
+      [
+        "Trimmings",
+        "Ruffle, drawstring"
+      ],
+      [
+        "Sleeve type",
+        "3/4th sleeves"
+      ],
+      [
+        "Size type",
+        "Relaxed fit, flowy"
+      ],
+      [
+        "Colour",
+        "Off-white"
+      ]
+    ],
+    "description": [
+      "The Carolyn Floral Dress has a lovely flowy silhouette and lightweight and breathable soft cotton. The Gather under yoke makes the garment roomy and comfortable. Carolyn Floral Dress features a soft Elasticated neckline and puffy sleeve."
+    ],
+    "source_url": "https://faelynn.co.in/shop/carolyn-floral-dress/"
+  },
+  {
+    "id": 5834,
+    "slug": "ramah-night-dress",
+    "name": "Ramah Night Dress – Soft Cotton Comfort Nightwear",
+    "short_name": "Ramah Night Dress",
+    "subtitle": "Soft Cotton Comfort Nightwear",
+    "gender": "women",
+    "primary_category": "night-dress-women",
+    "categories": [
+      "night-dress-women",
+      "women"
+    ],
+    "tags": [],
+    "price": 4375,
+    "regular_price": 4375,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "in_stock": true,
+    "images": [
+      {
+        "src": "assets/images/products/img-9800.jpg",
+        "alt": "Ramah Night Dress – Soft Cotton Comfort Nightwear"
+      },
+      {
+        "src": "assets/images/products/img-9801.jpg",
+        "alt": "Ramah Night Dress – Soft Cotton Comfort Nightwear"
+      },
+      {
+        "src": "assets/images/products/img-9804-1.jpg",
+        "alt": "Ramah Night Dress – Soft Cotton Comfort Nightwear"
+      },
+      {
+        "src": "assets/images/products/img-9801-1.jpg",
+        "alt": "Ramah Night Dress – Soft Cotton Comfort Nightwear"
+      },
+      {
+        "src": "assets/images/products/img-9798.jpg",
+        "alt": "Ramah Night Dress – Soft Cotton Comfort Nightwear"
+      },
+      {
+        "src": "assets/images/products/img-9807.jpg",
+        "alt": "Ramah Night Dress – Soft Cotton Comfort Nightwear"
+      },
+      {
+        "src": "assets/images/products/img-9808.jpg",
+        "alt": "Ramah Night Dress – Soft Cotton Comfort Nightwear"
+      }
+    ],
+    "tagline": "Soft, breathable cotton nightwear designed for effortless comfort and relaxed elegance.",
+    "intro": [
+      "Ramah Night Dress is designed with iconic floral embroidery which is an all-time favorite. The stunning and intricate floral embroideries embellished the bottom hem and neckline and Edge lace along the neckline and ladder lace on the front yoke add more feminine touches to it. Featherweight cotton is used to craft this timeless piece. It is finished with shell button placket."
+    ],
+    "highlights": [
+      "Made from ultra-soft breathable cotton perfect for Indian weather",
+      "Loose, relaxed fit for uninterrupted sleep",
+      "Elegant floral embroidery adds a premium touch",
+      "Front-open design ideal for added comfort"
+    ],
+    "perfect_for": [
+      "Peaceful sleep",
+      "Lounging at home",
+      "Relaxed evenings"
+    ],
+    "quick_specs": [
+      [
+        "Fabric",
+        "100% Cotton"
+      ],
+      [
+        "Fit",
+        "Relaxed"
+      ],
+      [
+        "Sleeve",
+        "Half sleeve"
+      ],
+      [
+        "Style",
+        "Embroidered, front-open"
+      ]
+    ],
+    "specs": [
+      [
+        "Material",
+        "Soft cotton"
+      ],
+      [
+        "Trimming",
+        "Button"
+      ],
+      [
+        "Colour",
+        "Soft pink"
+      ],
+      [
+        "Sleeve",
+        "Half sleeve"
+      ],
+      [
+        "Size types",
+        "Relax size"
+      ],
+      [
+        "Style details",
+        "Loose fit"
+      ]
+    ],
+    "description": [
+      "Ramah Night Dress is designed with iconic floral embroidery which is an all-time favorite. The stunning and intricate floral embroideries embellished the bottom hem and neckline and Edge lace along the neckline and ladder lace on the front yoke add more feminine touches to it. Featherweight cotton is used to craft this timeless piece. It is finished with shell button placket.",
+      "Perfect for Nursing Mothers with Button Front Placket"
+    ],
+    "source_url": "https://faelynn.co.in/shop/ramah-night-dress/"
+  },
+  {
+    "id": 5822,
+    "slug": "samara-front-open-night-dress",
+    "name": "Samara Night Dress – Lightweight Cotton Sleepwear",
+    "short_name": "Samara Night Dress",
+    "subtitle": "Lightweight Cotton Sleepwear",
+    "gender": "women",
+    "primary_category": "night-dress-women",
+    "categories": [
+      "night-dress-women",
+      "women"
+    ],
+    "tags": [],
+    "price": 4563,
+    "regular_price": 4563,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "in_stock": true,
+    "images": [
+      {
+        "src": "assets/images/products/img-9817.jpg",
+        "alt": "Samara Night Dress – Lightweight Cotton Sleepwear"
+      },
+      {
+        "src": "assets/images/products/img-9818.jpg",
+        "alt": "Samara Night Dress – Lightweight Cotton Sleepwear"
+      },
+      {
+        "src": "assets/images/products/img-9819-1.jpg",
+        "alt": "Samara Night Dress – Lightweight Cotton Sleepwear"
+      },
+      {
+        "src": "assets/images/products/img-9821-1.jpg",
+        "alt": "Samara Night Dress – Lightweight Cotton Sleepwear"
+      },
+      {
+        "src": "assets/images/products/img-9822.jpg",
+        "alt": "Samara Night Dress – Lightweight Cotton Sleepwear"
+      },
+      {
+        "src": "assets/images/products/img-9817-1.jpg",
+        "alt": "Samara Night Dress – Lightweight Cotton Sleepwear"
+      }
+    ],
+    "tagline": "Designed for breathability and ease, perfect for deep sleep and comfort",
+    "intro": [
+      "Samara Front-Open Night Dress is lightweight and breathable soft cotton. It is designed with delicate pink floral embroidery on yoke and above bottom hem."
+    ],
+    "highlights": [
+      "Lightweight cotton fabric for all-night comfort",
+      "Front-open design for added convenience",
+      "Soft embroidery for a premium look",
+      "Relaxed silhouette for easy movement"
+    ],
+    "perfect_for": [
+      "Sleepwear",
+      "Nursing comfort",
+      "Everyday lounging"
+    ],
+    "quick_specs": [
+      [
+        "Fabric",
+        "Soft cotton"
+      ],
+      [
+        "Fit",
+        "Relaxed"
+      ],
+      [
+        "Sleeve",
+        "Half sleeve"
+      ],
+      [
+        "Style",
+        "Front-open with embroidery"
+      ]
+    ],
+    "specs": [
+      [
+        "Material",
+        "Soft Cotton"
+      ],
+      [
+        "Trimming",
+        "Button , Ruffle on Neck"
+      ],
+      [
+        "Colour",
+        "Soft Blue"
+      ],
+      [
+        "Sleeve type",
+        "Half Sleeve"
+      ],
+      [
+        "Size type",
+        "Relax"
+      ],
+      [
+        "Style details",
+        "Loose fit"
+      ]
+    ],
+    "description": [
+      "Samara Front-Open Night Dress is lightweight and breathable soft cotton. It is designed with delicate pink floral embroidery on yoke and above bottom hem. The short Sleeve and necklines trimmed with beautiful raffles. The gather designed under yoke make the garment roomy and comfortable.",
+      "Perfect for Nursing mother with bottom front open."
+    ],
+    "source_url": "https://faelynn.co.in/shop/samara-front-open-night-dress/"
+  },
+  {
+    "id": 5821,
+    "slug": "sybil-co-ord-set",
+    "name": "Sybil Co-ord Set – Premium Cotton Matching Set",
+    "short_name": "Sybil Co-ord Set",
+    "subtitle": "Premium Cotton Matching Set",
+    "gender": "women",
+    "primary_category": "co-ord-set-women",
+    "categories": [
+      "co-ord-set-women",
+      "women"
+    ],
+    "tags": [],
+    "price": 3993,
+    "regular_price": 3993,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "in_stock": true,
+    "images": [
+      {
+        "src": "assets/images/products/img-9827.jpg",
+        "alt": "Sybil Co-ord Set – Premium Cotton Matching Set"
+      },
+      {
+        "src": "assets/images/products/img-9829-1.jpg",
+        "alt": "Sybil Co-ord Set – Premium Cotton Matching Set"
+      },
+      {
+        "src": "assets/images/products/img-9832-1.jpg",
+        "alt": "Sybil Co-ord Set – Premium Cotton Matching Set"
+      },
+      {
+        "src": "assets/images/products/img-9833-1.jpg",
+        "alt": "Sybil Co-ord Set – Premium Cotton Matching Set"
+      },
+      {
+        "src": "assets/images/products/img-9836.jpg",
+        "alt": "Sybil Co-ord Set – Premium Cotton Matching Set"
+      },
+      {
+        "src": "assets/images/products/img-9837.jpg",
+        "alt": "Sybil Co-ord Set – Premium Cotton Matching Set"
+      }
+    ],
+    "tagline": "Designed for effortless elegance and everyday comfort.",
+    "intro": [
+      "Sybil is roomy and calm Co-ord set, soft pure cotton dobby with beautiful neckline and delicate embroidery details on top and pocket it’s essential."
+    ],
+    "highlights": [
+      "Premium cotton fabric",
+      "Comfortable matching design",
+      "Stylish and versatile",
+      "Easy to wear all day"
+    ],
+    "perfect_for": [
+      "Casual wear",
+      "Lounging",
+      "Day outings"
+    ],
+    "quick_specs": [
+      [
+        "Fabric",
+        "Cotton"
+      ],
+      [
+        "Fit",
+        "Relaxed"
+      ]
+    ],
+    "specs": [
+      [
+        "Material",
+        "Cotton Dobby"
+      ],
+      [
+        "Trimming",
+        "Button"
+      ],
+      [
+        "Colour",
+        "Soft Blue"
+      ],
+      [
+        "Sleeve type",
+        "3/4 Sleeve"
+      ],
+      [
+        "Size type",
+        "Relax"
+      ],
+      [
+        "Style details",
+        "Loose fit top with straight PJ, Elastic on Sleeve"
+      ]
+    ],
+    "description": [
+      "Sybil is roomy and calm Co-ord set, soft pure cotton dobby with beautiful neckline and delicate embroidery details on top and pocket it’s essential."
+    ],
+    "source_url": "https://faelynn.co.in/shop/sybil-co-ord-set/"
+  }
+]
