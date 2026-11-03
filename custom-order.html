@@ -11,13 +11,106 @@
   <meta property="og:image" content="assets/images/brand/og-image.jpg">
   <link rel="icon" type="image/png" href="assets/images/brand/favicon.png">
   <link rel="apple-touch-icon" href="assets/images/brand/apple-touch-icon.png">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
+      <script>
+(function () {
+  var skip = false;
+  try {
+    var r = document.referrer && new URL(document.referrer);
+    skip = !!r && r.origin === location.origin && r.pathname === location.pathname && r.search !== location.search;
+  } catch (e) {}
+  if (!skip) document.documentElement.classList.add('fl-loading', 'fl-hold');
+})();
+</script>
+<style>
+  #preloader { display: none; }
+  .fl-loading #preloader { position: fixed; inset: 0; z-index: 9999; display: grid; place-items: center; background: #FBF8F2; transition: transform .75s cubic-bezier(.76, 0, .24, 1); will-change: transform; }
+  /* curved lip on the lifting curtain */
+  .fl-loading #preloader::after { content: ""; position: absolute; left: -10%; right: -10%; top: calc(100% - 7vh); height: 14vh; border-radius: 50%; background: #FBF8F2; }
+  .pl-mark { position: relative; width: clamp(230px, 32vw, 420px); transition: transform .6s cubic-bezier(.76, 0, .24, 1), opacity .35s ease; }
+  /* the wordmark is "inked" in from left to right with a soft edge */
+  .pl-logo { display: block; width: 100%; height: auto;
+    -webkit-mask: linear-gradient(100deg, #000 42%, transparent 58%) 100% 0 / 320% 100% no-repeat;
+            mask: linear-gradient(100deg, #000 42%, transparent 58%) 100% 0 / 320% 100% no-repeat;
+    animation: plInk .85s cubic-bezier(.45, .05, .25, 1) .05s both; }
+  /* the dragonfly flies along the ink and lands on its place in the logo:
+     separate X and Y easings on two wrappers give a natural curved path */
+  .pl-flyx, .pl-flyy { position: absolute; inset: 0; }
+  .pl-flyx { animation: plFlyX .95s cubic-bezier(.3, .6, .25, 1) both; }
+  .pl-flyy { animation: plFlyY .95s ease-in-out both; }
+  .pl-fly { position: absolute; left: 93.873%; top: 33.592%; width: 5.677%; height: auto; animation: plWing .11s ease-in-out 8 alternate both; }
+  #preloader:not(.is-ready) .pl-logo, #preloader:not(.is-ready) .pl-flyx, #preloader:not(.is-ready) .pl-flyy, #preloader:not(.is-ready) .pl-fly { animation-play-state: paused; }
+  #preloader.is-leaving { transform: translateY(calc(-100% - 8vh)); pointer-events: none; }
+  #preloader.is-leaving .pl-mark { transform: translateY(-36px); opacity: 0; }
+  /* hero entrance waits for the curtain, so it plays as the page is revealed */
+  .fl-hold .hero-anim > *, .fl-hold .hero-img { animation-play-state: paused !important; }
+  @keyframes plInk { from { -webkit-mask-position: 100% 0; mask-position: 100% 0; } to { -webkit-mask-position: 0 0; mask-position: 0 0; } }
+  @keyframes plFlyX { from { transform: translateX(-96%); opacity: 0; } 18% { opacity: 1; } to { transform: none; opacity: 1; } }
+  @keyframes plFlyY { 0% { transform: translateY(55%); } 48% { transform: translateY(-42%); } 100% { transform: none; } }
+  @keyframes plWing { from { transform: rotate(-8deg); } to { transform: rotate(8deg); } }
+  @media (prefers-reduced-motion: reduce) {
+    .pl-logo, .pl-flyx, .pl-flyy, .pl-fly { animation: none; -webkit-mask: none; mask: none; }
+    .fl-loading #preloader { transition: opacity .3s ease; }
+    #preloader.is-leaving { transform: none; opacity: 0; }
+  }
+</style>
+    <link rel="preload" as="image" href="assets/images/brand/preloader-logo.webp" fetchpriority="high">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Jost:wght@300;400;500;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/vendor/swiper/swiper-bundle.min.css?v=1.1.0">
+        <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&amp;family=Jost:wght@300;400;500;600&amp;display=swap" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&amp;family=Jost:wght@300;400;500;600&amp;display=swap"></noscript>
+    <link rel="stylesheet" href="assets/vendor/swiper/swiper-bundle.min.css?v=1.1.0">
   <link rel="stylesheet" href="assets/css/app.css?v=1.1.0">
 </head>
 <body class="" data-page="custom-order" data-static="1">
+<!-- Preloader (styles: partials/preloader-head.php) -->
+<div id="preloader" aria-hidden="true">
+  <div class="pl-mark">
+    <img class="pl-logo" src="assets/images/brand/preloader-logo.webp" alt="" width="900" height="261" fetchpriority="high">
+    <div class="pl-flyx"><div class="pl-flyy"><img class="pl-fly" src="assets/images/brand/preloader-dragonfly.png" alt="" width="101" height="106"></div></div>
+  </div>
+</div>
+<script>
+/* Self-contained so the page can never stay covered, even if app.js fails to load. */
+(function () {
+  var root = document.documentElement;
+  var el = document.getElementById('preloader');
+  if (!root.classList.contains('fl-loading')) { el.remove(); return; }
+
+  var MIN = 1000;  // the logo stays on screen for at least this long (ms)
+  var MAX = 3000;  // never hold a slow page longer than this (ms)
+  var started = 0, left = false;
+
+  function start() {
+    if (started) return;
+    started = performance.now();
+    el.classList.add('is-ready');
+  }
+  function leave() {
+    if (left) return;
+    left = true;
+    el.classList.add('is-leaving');
+    root.classList.remove('fl-hold');
+    setTimeout(function () { root.classList.remove('fl-loading'); el.remove(); }, 800);
+  }
+
+  // Start the animation only once the logo can actually be drawn
+  var logo = el.querySelector('.pl-logo');
+  if (logo.decode) logo.decode().then(start, start); else start();
+  setTimeout(start, 500);
+
+  var loaded = new Promise(function (done) {
+    if (document.readyState === 'complete') done();
+    else window.addEventListener('load', done, { once: true });
+  });
+  var fonts = (document.fonts && document.fonts.ready) || Promise.resolve();
+  var cap = new Promise(function (done) { setTimeout(done, MAX); });
+
+  Promise.race([Promise.all([loaded, fonts]), cap]).then(function () {
+    var shown = started ? performance.now() - started : 0;
+    setTimeout(leave, Math.max(0, MIN - shown));
+  });
+})();
+</script>
 <a href="#main" class="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[100] focus:rounded-full focus:bg-forest focus:px-4 focus:py-2 focus:text-ivory">Skip to content</a>
 
 <!-- Announcement bar -->
